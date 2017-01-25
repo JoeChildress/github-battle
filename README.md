@@ -1,1 +1,1 @@
-//Joe's ReactJS github-battle project. More things about this 
+//Joe's ReactJS github-battle project 
